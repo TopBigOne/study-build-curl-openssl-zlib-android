@@ -90,3 +90,5 @@ This repo has been made to help building curl, openssl, and zlib libraries for a
 
 
 Enjoy :)
+
+###  这个库，现在不好用了，需要再查查。
